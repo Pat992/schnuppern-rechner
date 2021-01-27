@@ -1,0 +1,10 @@
+D:\Schnuppern\Calculator\Rechner\Rechner\bin\Debug\Rechner.exe.config
+D:\Schnuppern\Calculator\Rechner\Rechner\bin\Debug\Rechner.exe
+D:\Schnuppern\Calculator\Rechner\Rechner\bin\Debug\Rechner.pdb
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.csprojAssemblyReference.cache
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.Form1.resources
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.Properties.Resources.resources
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.csproj.GenerateResource.cache
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.csproj.CoreCompileInputs.cache
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.exe
+D:\Schnuppern\Calculator\Rechner\Rechner\obj\Debug\Rechner.pdb
